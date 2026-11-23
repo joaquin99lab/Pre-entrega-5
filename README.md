@@ -38,4 +38,3 @@ sito-crochet/
 
 https://joaquin99lab.github.io/Pre-entrega-5/
 
-El enlace estará disponible después de activar GitHub Pages desde la rama principal y la carpeta raíz del repositorio.
